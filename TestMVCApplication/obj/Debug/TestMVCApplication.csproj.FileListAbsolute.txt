@@ -1,0 +1,2 @@
+C:\Users\orang\Documents\ISEM\551\A1\A1\TestMVCApplication\obj\Debug\TestMVCApplication.csprojAssemblyReference.cache
+C:\Users\orang\Documents\ISEM\551\A1\A1\TestMVCApplication\obj\Debug\TestMVCApplication.csproj.CoreCompileInputs.cache

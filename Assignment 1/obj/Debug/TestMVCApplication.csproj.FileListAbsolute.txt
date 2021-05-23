@@ -1,0 +1,4 @@
+C:\Users\orang\Documents\ISEM\551\A1\A1\Assignment 1\obj\Debug\TestMVCApplication.csprojAssemblyReference.cache
+C:\Users\orang\Documents\ISEM\551\A1\A1\Assignment 1\obj\Debug\TestMVCApplication.csproj.CoreCompileInputs.cache
+C:\Users\orang\Documents\ISEM\551\A1\A1\Assignment 1\obj\Debug\Assignment 1.dll
+C:\Users\orang\Documents\ISEM\551\A1\A1\Assignment 1\obj\Debug\Assignment 1.pdb
