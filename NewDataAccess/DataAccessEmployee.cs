@@ -11,7 +11,7 @@ namespace NewDataAccess
         {
             get
             {
-
+ 
                 string cs = "server=localhost;user=root;database=employees;port=3306;password=password";
                 MySqlConnection conn = new MySqlConnection(cs);
 
@@ -51,6 +51,9 @@ namespace NewDataAccess
             DataTable dt = new DataTable();
             DataSet dsGetEmployees = new DataSet();
 
+            //Config details and create SQL Connection
+            // It is not recommended to have connection string info in the code since developer have access to the info and can get compromised. 
+            // Login info added for demonstration purpose only.
             connetionString = "server=localhost;user=root;database=employees;port=3306;password=root;";
             cnn = new MySqlConnection(connetionString);
 

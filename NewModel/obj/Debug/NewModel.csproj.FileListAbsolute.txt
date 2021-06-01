@@ -4,3 +4,9 @@ C:\Users\Lingbo Kou\Documents\github\Assignment2\NewModel\obj\Debug\NewModel.csp
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewModel\obj\Debug\NewModel.csproj.CoreCompileInputs.cache
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewModel\obj\Debug\NewModel.dll
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewModel\obj\Debug\NewModel.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\bin\Debug\NewModel.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\bin\Debug\NewModel.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\obj\Debug\NewModel.csprojAssemblyReference.cache
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\obj\Debug\NewModel.csproj.CoreCompileInputs.cache
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\obj\Debug\NewModel.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewModel\obj\Debug\NewModel.pdb

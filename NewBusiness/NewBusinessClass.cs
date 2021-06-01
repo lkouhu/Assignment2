@@ -15,40 +15,47 @@ namespace NewBusiness
         {
             
             var IndivDemoList = new List<EmployeeInformation>();
-            DataSet dsGetReport = new DataSet();
+
 
             //2rd Assignment
             //Get the Employee List from database but get the connection string details from web.Config file
-            dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithOutConfig();
+            DataSet dsGetReport = new DataSet();
+            dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithConfig();
+            //Get the Employee List from database but get the connection string details without web.Config file
+            //dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithOutConfig(); 
 
             //3rd Assignment
             //Calling web service - Get the Employee List from database but get the connection string details from web.Config file
-            //var testService = new MyInfoService.MyInfoServiceClient();
-            //dsGetReport = testService.GetUsingDBWithConfig();
+            //var testService = new NewService.MyServiceClient();
+            //dsGetReport = testService.GetEmployeesUsingDBWithConfig();
 
             //------------------------------------------------------------------------------------------
             //Get the Employee List from database but define the connection string in this method
-            //dsGetReport = DAInformation.GetUsingDBWithOutConfig();
-            //dsGetReport = testService.GetUsingDBWithOutConfig();
+            //dsGetReport = NewDataAccess.GetEmployeesUsingDBWithOutConfig();
+            //dsGetReport = testService.GetEmployeesUsingDBWithOutConfig();
 
             //var testServ = new DemoInformationService.DemoInformationServiceClient();
             //Get the Employee List data by NOT USING the database
-            //dsGetReport = DAInformation.GetWithOutDB();
-            //dsGetReport = testService.GetWithOutDB();
+            //dsGetReport = NewDataAccess.GetEmployeesWithOutDB();
+            //dsGetReport = testService.GetEmployeesWithOutDB();
             //------------------------------------------------------------------------------------------
 
             //Transfer Dataset details to List Object
             if (dsGetReport.Tables.Count > 0)
             {
-                IndivDemoList = dsGetReport.Tables[0].AsEnumerable().Select(m => new EmployeeInformation
+                IndivDemoList = dsGetReport.Tables[0].AsEnumerable().Select(m =>
                 {
-                    //Left side is Model Object - Right Side is Database columns
-                    FirstName = Convert.ToString(m["FirstName"]),
-                    LastName = Convert.ToString(m["LastName"]),
-                    Sex = Convert.ToString(m["Gender"]),
-                    Address = Convert.ToString(m["Address"]),
-                    Emp_no = Convert.ToInt32(m["EmployeeID"]),
-                    Hire_date = Convert.ToString(m["HireDate"])
+                    EmployeeInformation employeeInformation = new EmployeeInformation
+                    {
+                        //Left side is Model Object - Right Side is Database columns
+                        FirstName = Convert.ToString(m["first_name"]),
+                        LastName = Convert.ToString(m["last_name"]),
+                        Sex = Convert.ToString(m["gender"]),
+                        //Address = Convert.ToString(m["Address"]),
+                        Emp_no = Convert.ToInt32(m["emp_no"]),
+                        Hire_date = Convert.ToString(m["hire_date"])
+                    };
+                    return employeeInformation;
                 }).ToList();
 
             }

@@ -32,3 +32,37 @@ C:\Users\Lingbo Kou\Documents\github\Assignment2\NewBusiness\obj\Debug\NewBusine
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewBusiness\obj\Debug\NewBusiness.csproj.CopyComplete
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewBusiness\obj\Debug\NewBusiness.dll
 C:\Users\Lingbo Kou\Documents\github\Assignment2\NewBusiness\obj\Debug\NewBusiness.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewBusiness.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewBusiness.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewDataAccess.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewModel.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\MySql.Data.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\Google.Protobuf.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\Zstandard.Net.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Memory.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Buffers.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewDataAccess.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewDataAccess.dll.config
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\NewModel.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\MySql.Data.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\Google.Protobuf.pdb
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\Google.Protobuf.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Memory.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Buffers.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\obj\Debug\NewBusiness.csprojAssemblyReference.cache
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\obj\Debug\NewBusiness.csproj.CoreCompileInputs.cache
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\obj\Debug\NewBusiness.csproj.CopyComplete
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\obj\Debug\NewBusiness.dll
+C:\Users\orang\Documents\ISEM\551\Assignment2\Ikouhu\NewBusiness\obj\Debug\NewBusiness.pdb
