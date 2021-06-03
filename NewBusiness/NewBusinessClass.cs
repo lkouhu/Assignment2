@@ -20,14 +20,14 @@ namespace NewBusiness
             //2rd Assignment
             //Get the Employee List from database but get the connection string details from web.Config file
             DataSet dsGetReport = new DataSet();
-            dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithConfig();
+            //dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithConfig();
             //Get the Employee List from database but get the connection string details without web.Config file
             //dsGetReport = DataAccessEmployee.GetEmployeesUsingDBWithOutConfig(); 
 
             //3rd Assignment
             //Calling web service - Get the Employee List from database but get the connection string details from web.Config file
-            //var testService = new NewService.MyServiceClient();
-            //dsGetReport = testService.GetEmployeesUsingDBWithConfig();
+            var testService = new NewService.NewServiceClient();
+            dsGetReport = testService.GetEmployeesUsingDBWithConfig();
 
             //------------------------------------------------------------------------------------------
             //Get the Employee List from database but define the connection string in this method
